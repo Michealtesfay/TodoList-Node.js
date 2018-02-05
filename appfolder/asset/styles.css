@@ -1,5 +1,5 @@
 body{
-    background: #186a3b;
+    background: green;
     font-family: tahoma;
     color: #989898;
 }
@@ -34,7 +34,7 @@ button{
     padding: 20px;
     width: 30%;
     float: left;
-    background: #23282e;
+    background: RED;
     border: 0;
     box-sizing: border-box;
     color: #fff;
